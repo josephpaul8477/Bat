@@ -1,0 +1,111 @@
+body {
+    background-color: #191919;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.main {
+    width: 245px;
+    height: 80px;
+    background-color: #f2ad43;
+    position: relative;
+    margin-bottom: 20px
+}
+
+.recta {
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    background-color: #191919;
+    margin-bottom: 80px;
+    border-radius: 10px;
+}
+
+.recta1 {
+    width: 25px;
+    height: 20px;
+    background-color: #f2ad43;
+    transform: rotate(90deg);
+    position: absolute;
+    margin-bottom: 55px;
+}
+
+.circle1 {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: 24px solid rgba(0, 0, 0, 0);
+    border-top-color: #191919;
+    border-right-color: #191919;
+    margin-bottom: 3px;
+    border-radius: 100px;
+    transform: rotate(5deg);
+    margin-right: 250px;
+    background-color: #191919;
+}
+
+.circle2 {
+    height: 80px;
+    width: 90px;
+    position: absolute;
+    border: 24px solid rgba(0, 0, 0, 0);
+    border-top-color: #191919;
+    border-right-color: #191919;
+    border-radius: 100px;
+    transform: rotate(1deg);
+    margin-top: 147px;
+    margin-right: 110px;
+    margin-bottom: 10px;
+    background-color: #191919;
+}
+
+.circle3 {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: 24px solid rgba(0, 0, 0, 0);
+    border-top-color: #191919;
+    border-right-color: #191919;
+    margin-bottom: 3px;
+    border-radius: 100px;
+    transform: rotate(55deg);
+    margin-left: 250px;
+    background-color: #191919;
+}
+
+.circle4 {
+    height: 80px;
+    width: 90px;
+    position: absolute;
+    border: 24px solid rgba(0, 0, 0, 0);
+    border-top-color: #191919;
+    border-right-color: #191919;
+    border-radius: 100px;
+    transform: rotate(1deg);
+    margin-top: 147px;
+    margin-left: 110px;
+    margin-bottom: 10px;
+    background-color: #191919;
+}
+
+.circle5 {
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    background-color: #f2ad43;
+    position: absolute;
+    margin-bottom: 83px;
+    margin-right: 19px;
+}
+
+.circle6 {
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    background-color: #f2ad43;
+    position: absolute;
+    margin-bottom: 83px;
+    margin-left: 19px;
+}
